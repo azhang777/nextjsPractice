@@ -1,5 +1,4 @@
 import { fetchInvoicesPages } from "@/app/lib/data";
-import Table from "@/app/ui/customers/table";
 import { lusitana } from "@/app/ui/fonts";
 import { CreateInvoice } from "@/app/ui/invoices/buttons";
 import Pagination from "@/app/ui/invoices/pagination";
